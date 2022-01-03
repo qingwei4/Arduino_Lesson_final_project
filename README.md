@@ -1,6 +1,6 @@
 # Arduino_Lesson_final_project
-My final project for Arduino lessons in HCHS
-===
+## My final project for Arduino lessons in HCHS
+
 分工
 ---
 #### 30601 孔甫瑄：製作工程設計流程報告
